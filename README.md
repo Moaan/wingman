@@ -1,0 +1,1 @@
+This is a 2d scrolling shooter game. It is a java applet that I made in CSC 413: Software Development (Fall 2013). The game can be played in 1p and 2p mode.
